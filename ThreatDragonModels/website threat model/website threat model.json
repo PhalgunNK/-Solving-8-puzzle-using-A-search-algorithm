@@ -1,10 +1,21 @@
 {
   "summary": {
     "title": "website threat model",
-    "owner": "Phalgun n Kulkarni"
+    "owner": "Phalgun n Kulkarni",
+    "description": ""
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "Phalgun n Kulkarni"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Threat Model for a simple website",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
